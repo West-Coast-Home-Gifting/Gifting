@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Instrument Serif';
+  src: url('/fonts/instrument-serif-latin-400-normal.woff2') format('woff2');
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'Instrument Serif';
+  src: url('/fonts/instrument-serif-latin-400-italic.woff2') format('woff2');
+  font-weight: 400; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: 'Hanken Grotesk';
+  src: url('/fonts/hanken-grotesk-latin-wght-normal.woff2') format('woff2');
+  font-weight: 100 900; font-style: normal; font-display: swap;
+}
+/* size-adjusted fallbacks so the swap does not shift layout */
+@font-face { font-family: 'Serif Fallback'; src: local('Georgia'); size-adjust: 88%; ascent-override: 98%; descent-override: 26%; }
+@font-face { font-family: 'Grotesk Fallback'; src: local('Arial'); size-adjust: 101%; ascent-override: 94%; descent-override: 25%; }
+
+:root {
+  --ink: #07080C;
+  --deep: #0E1220;
+  --mist: #AAB4D4;
+  --bone: #F2EFE9;
+  --accent: #8FA8FF;
+  --warm: #FFC48A;
+
+  --serif: 'Instrument Serif', 'Serif Fallback', Georgia, serif;
+  --sans: 'Hanken Grotesk', 'Grotesk Fallback', system-ui, sans-serif;
+
+  --pad: clamp(1.25rem, 5vw, 5rem);
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+}

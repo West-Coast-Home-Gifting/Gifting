@@ -1,0 +1,2667 @@
+{
+  "checks": [
+    {
+      "vp": 375,
+      "H": 14461,
+      "vh": 812,
+      "sw": 375,
+      "iw": 375
+    },
+    {
+      "vp": 375,
+      "revealLines": 20
+    },
+    {
+      "vp": 768,
+      "H": 18085,
+      "vh": 1024,
+      "sw": 768,
+      "iw": 768
+    },
+    {
+      "vp": 768,
+      "revealLines": 19
+    },
+    {
+      "vp": 1440,
+      "H": 16183,
+      "vh": 900,
+      "sw": 1440,
+      "iw": 1440
+    },
+    {
+      "vp": 1440,
+      "revealLines": 20
+    },
+    {
+      "reduced": 375,
+      "poster": true,
+      "canvas": false,
+      "lenis": false,
+      "hidden": 0,
+      "sw": 375,
+      "iw": 375
+    },
+    {
+      "reduced": 1440,
+      "poster": true,
+      "canvas": false,
+      "lenis": false,
+      "hidden": 0,
+      "sw": 1440,
+      "iw": 1440
+    }
+  ],
+  "issues": [],
+  "draw": [
+    {
+      "vp": 375,
+      "f": 0,
+      "calls": 6,
+      "tris": 38467,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 375,
+      "f": 0.25,
+      "calls": 5,
+      "tris": 38465,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 375,
+      "f": 0.5,
+      "calls": 6,
+      "tris": 56465,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 375,
+      "f": 0.75,
+      "calls": 5,
+      "tris": 38465,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 375,
+      "f": 1,
+      "calls": 6,
+      "tris": 38467,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 768,
+      "f": 0,
+      "calls": 18,
+      "tris": 38479,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 768,
+      "f": 0.25,
+      "calls": 17,
+      "tris": 38477,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 768,
+      "f": 0.5,
+      "calls": 18,
+      "tris": 56477,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 768,
+      "f": 0.75,
+      "calls": 19,
+      "tris": 56479,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 768,
+      "f": 1,
+      "calls": 18,
+      "tris": 38479,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 1440,
+      "f": 0,
+      "calls": 18,
+      "tris": 38479,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 1440,
+      "f": 0.25,
+      "calls": 17,
+      "tris": 38477,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 1440,
+      "f": 0.5,
+      "calls": 18,
+      "tris": 56477,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 1440,
+      "f": 0.75,
+      "calls": 19,
+      "tris": 56479,
+      "backend": "webgl2"
+    },
+    {
+      "vp": 1440,
+      "f": 1,
+      "calls": 18,
+      "tris": 38479,
+      "backend": "webgl2"
+    }
+  ],
+  "contrast": [
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.46,
+      "need": 3
+    },
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.72,
+      "need": 3
+    },
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "p.eyebrow",
+      "txt": "A smart ring for sleep and recovery",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "div.line",
+      "txt": "Sleep, without the",
+      "ratio": 17.46,
+      "need": 3
+    },
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "div.line",
+      "txt": "noise.",
+      "ratio": 17.46,
+      "need": 3
+    },
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.54,
+      "need": 4.5
+    },
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "pre3d",
+      "vp": 375,
+      "el": "span.micro",
+      "txt": "One email at launch. [PLACEHOLDER: launc",
+      "ratio": 9.72,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.74,
+      "need": 3
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.88,
+      "need": 3
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "p.eyebrow",
+      "txt": "A smart ring for sleep and recovery",
+      "ratio": 10,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "div.line",
+      "txt": "Sleep, without the",
+      "ratio": 17.86,
+      "need": 3
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "div.line",
+      "txt": "noise.",
+      "ratio": 17.74,
+      "need": 3
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.66,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 375,
+      "el": "span.micro",
+      "txt": "One email at launch. [PLACEHOLDER: launc",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.57,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.78,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "p.eyebrow",
+      "txt": "Anatomy",
+      "ratio": 9.88,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "div.line",
+      "txt": "Three layers. One",
+      "ratio": 17.85,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "div.line",
+      "txt": "quiet object.",
+      "ratio": 17.86,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "strong.",
+      "txt": "Outer shell",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "[PLACEHOLDER: material, finishes and siz",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "[PLACEHOLDER: material, finishes and siz",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "strong.",
+      "txt": "Sensor band",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Sits against the skin on the inside of t",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Sits against the skin on the inside of t",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "strong.",
+      "txt": "Battery arc",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "[PLACEHOLDER: battery capacity and teste",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "[PLACEHOLDER: battery capacity and teste",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 16.19,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 8.85,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "p.eyebrow",
+      "txt": "Sleep science",
+      "ratio": 6.2,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "div.line",
+      "txt": "From scattered signals to",
+      "ratio": 9.73,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "div.line",
+      "txt": "one clean night.",
+      "ratio": 9.27,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 8.14,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 8.98,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 10.51,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 12.27,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 10.94,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 12.24,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "li.",
+      "txt": "Awake",
+      "ratio": 8.07,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "li.",
+      "txt": "REM",
+      "ratio": 7.05,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "li.",
+      "txt": "Light",
+      "ratio": 8.26,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 375,
+      "el": "li.",
+      "txt": "Deep",
+      "ratio": 7.6,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.54,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.76,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "p.eyebrow",
+      "txt": "How it works",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "div.line",
+      "txt": "Three steps. One of",
+      "ratio": 17.54,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "div.line",
+      "txt": "them is sleeping.",
+      "ratio": 17.54,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "span.timeline__n",
+      "txt": "01",
+      "ratio": 8.83,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "h3.",
+      "txt": "Put it on",
+      "ratio": 17.54,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "p.",
+      "txt": "Wear it to bed like any ring. After firs",
+      "ratio": 12.68,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "p.",
+      "txt": "Wear it to bed like any ring. After firs",
+      "ratio": 12.47,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "p.",
+      "txt": "Wear it to bed like any ring. After firs",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "span.timeline__n",
+      "txt": "02",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "h3.",
+      "txt": "Sleep",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "p.",
+      "txt": "It records quietly. Nothing buzzes, noth",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "p.",
+      "txt": "It records quietly. Nothing buzzes, noth",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "span.timeline__n",
+      "txt": "03",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "h3.",
+      "txt": "Read one line",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "p.",
+      "txt": "In the morning you get one plain sentenc",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "p.",
+      "txt": "In the morning you get one plain sentenc",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "p.",
+      "txt": "In the morning you get one plain sentenc",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 375,
+      "el": "p.",
+      "txt": "In the morning you get one plain sentenc",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.55,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "p.eyebrow",
+      "txt": "Waitlist",
+      "ratio": 9.12,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "div.line",
+      "txt": "Be early to a quieter night.",
+      "ratio": 13.59,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "One email when [PLACEHOLDER: launch wind",
+      "ratio": 8.83,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "One email when [PLACEHOLDER: launch wind",
+      "ratio": 8.84,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "p.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.71,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "[PLACEHOLDER: company name, address and ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "[PLACEHOLDER: company name, address and ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "a.",
+      "txt": "Back to top",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "a.",
+      "txt": "Waitlist",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "a.",
+      "txt": "[PLACEHOLDER: Privacy]",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "© [PLACEHOLDER: year and company]. LUMO ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "© [PLACEHOLDER: year and company]. LUMO ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 768,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.74,
+      "need": 3
+    },
+    {
+      "tag": "0%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.82,
+      "need": 3
+    },
+    {
+      "tag": "0%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 768,
+      "el": "p.eyebrow",
+      "txt": "A smart ring for sleep and recovery",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 768,
+      "el": "div.line",
+      "txt": "Sleep, without the noise.",
+      "ratio": 17.65,
+      "need": 3
+    },
+    {
+      "tag": "0%",
+      "vp": 768,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 768,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 768,
+      "el": "span.micro",
+      "txt": "One email at launch. [PLACEHOLDER: launc",
+      "ratio": 9.76,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.64,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "p.eyebrow",
+      "txt": "Anatomy",
+      "ratio": 9.88,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "div.line",
+      "txt": "Three layers. One",
+      "ratio": 17.53,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "div.line",
+      "txt": "quiet object.",
+      "ratio": 17.53,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "strong.",
+      "txt": "Outer shell",
+      "ratio": 17.66,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "[PLACEHOLDER: material, finishes and siz",
+      "ratio": 17.66,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "[PLACEHOLDER: material, finishes and siz",
+      "ratio": 17.66,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "strong.",
+      "txt": "Sensor band",
+      "ratio": 17.66,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "Sits against the skin on the inside of t",
+      "ratio": 17.65,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "Sits against the skin on the inside of t",
+      "ratio": 17.65,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "strong.",
+      "txt": "Battery arc",
+      "ratio": 17.65,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "[PLACEHOLDER: battery capacity and teste",
+      "ratio": 17.54,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "[PLACEHOLDER: battery capacity and teste",
+      "ratio": 17.36,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 16.3,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "p.eyebrow",
+      "txt": "Sleep science",
+      "ratio": 6.66,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "div.line",
+      "txt": "From scattered signals to",
+      "ratio": 10.28,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "div.line",
+      "txt": "one clean night.",
+      "ratio": 10.95,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 11.47,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 12.47,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 12.81,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "li.",
+      "txt": "Awake",
+      "ratio": 9.88,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "li.",
+      "txt": "REM",
+      "ratio": 7.49,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "li.",
+      "txt": "Light",
+      "ratio": 7.97,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 768,
+      "el": "li.",
+      "txt": "Deep",
+      "ratio": 7.98,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.45,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.73,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "p.eyebrow",
+      "txt": "How it works",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "div.line",
+      "txt": "Three steps. One of",
+      "ratio": 17.55,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "div.line",
+      "txt": "them is sleeping.",
+      "ratio": 17.55,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "span.timeline__n",
+      "txt": "01",
+      "ratio": 8.84,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "h3.",
+      "txt": "Put it on",
+      "ratio": 17.55,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "p.",
+      "txt": "Wear it to bed like any ring. After firs",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "p.",
+      "txt": "Wear it to bed like any ring. After firs",
+      "ratio": 17.55,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "span.timeline__n",
+      "txt": "02",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "h3.",
+      "txt": "Sleep",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "p.",
+      "txt": "It records quietly. Nothing buzzes, noth",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "p.",
+      "txt": "It records quietly. Nothing buzzes, noth",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "span.timeline__n",
+      "txt": "03",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "h3.",
+      "txt": "Read one line",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 768,
+      "el": "p.",
+      "txt": "In the morning you get one plain sentenc",
+      "ratio": 9.77,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.74,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.83,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "p.eyebrow",
+      "txt": "Waitlist",
+      "ratio": 8.81,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "div.line",
+      "txt": "Be early to a quieter night.",
+      "ratio": 15.71,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "p.micro",
+      "txt": "One email when [PLACEHOLDER: launch wind",
+      "ratio": 8.91,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "p.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.71,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "p.micro",
+      "txt": "[PLACEHOLDER: company name, address and ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "a.",
+      "txt": "Back to top",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "a.",
+      "txt": "Waitlist",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "a.",
+      "txt": "[PLACEHOLDER: Privacy]",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 768,
+      "el": "p.micro",
+      "txt": "© [PLACEHOLDER: year and company]. LUMO ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.57,
+      "need": 3
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.78,
+      "need": 3
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "p.eyebrow",
+      "txt": "A smart ring for sleep and recovery",
+      "ratio": 9.83,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "div.line",
+      "txt": "Sleep, without the",
+      "ratio": 17.52,
+      "need": 3
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "div.line",
+      "txt": "noise.",
+      "ratio": 17.65,
+      "need": 3
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.63,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.66,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.66,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "span.micro",
+      "txt": "One email at launch. [PLACEHOLDER: launc",
+      "ratio": 9.83,
+      "need": 4.5
+    },
+    {
+      "tag": "0%",
+      "vp": 1440,
+      "el": "a.scroll-hint",
+      "txt": "Scroll",
+      "ratio": 10.12,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 1440,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.64,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.82,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 1440,
+      "el": "p.eyebrow",
+      "txt": "Anatomy",
+      "ratio": 9.87,
+      "need": 4.5
+    },
+    {
+      "tag": "25%",
+      "vp": 1440,
+      "el": "div.line",
+      "txt": "Three layers. One",
+      "ratio": 17.21,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 1440,
+      "el": "div.line",
+      "txt": "quiet object.",
+      "ratio": 16.92,
+      "need": 3
+    },
+    {
+      "tag": "25%",
+      "vp": 1440,
+      "el": "p.body",
+      "txt": "Scroll to take it apart and put it back ",
+      "ratio": 13.11,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.39,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 8.77,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "p.eyebrow",
+      "txt": "Sleep science",
+      "ratio": 6.02,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "div.line",
+      "txt": "From scattered signals to",
+      "ratio": 9.7,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "div.line",
+      "txt": "one clean night.",
+      "ratio": 8.01,
+      "need": 3
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 10.78,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 12.43,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 13.47,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "li.",
+      "txt": "Awake",
+      "ratio": 9.88,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "li.",
+      "txt": "REM",
+      "ratio": 9.23,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "li.",
+      "txt": "Light",
+      "ratio": 8.16,
+      "need": 4.5
+    },
+    {
+      "tag": "50%",
+      "vp": 1440,
+      "el": "li.",
+      "txt": "Deep",
+      "ratio": 9.29,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.89,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "p.eyebrow",
+      "txt": "How it works",
+      "ratio": 9.83,
+      "need": 4.5
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "div.line",
+      "txt": "Three steps. One of",
+      "ratio": 17.65,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "div.line",
+      "txt": "them is sleeping.",
+      "ratio": 17.65,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "span.timeline__n",
+      "txt": "01",
+      "ratio": 8.83,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "h3.",
+      "txt": "Put it on",
+      "ratio": 17.54,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "span.timeline__n",
+      "txt": "02",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "h3.",
+      "txt": "Sleep",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "span.timeline__n",
+      "txt": "03",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "75%",
+      "vp": 1440,
+      "el": "h3.",
+      "txt": "Read one line",
+      "ratio": 9.77,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.77,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.89,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "p.eyebrow",
+      "txt": "Waitlist",
+      "ratio": 8.66,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "div.line",
+      "txt": "Be early to a quieter night.",
+      "ratio": 15.71,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "p.micro",
+      "txt": "One email when [PLACEHOLDER: launch wind",
+      "ratio": 8.99,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "p.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.71,
+      "need": 3
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "p.micro",
+      "txt": "[PLACEHOLDER: company name, address and ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "a.",
+      "txt": "Back to top",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "a.",
+      "txt": "Waitlist",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "a.",
+      "txt": "[PLACEHOLDER: Privacy]",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "100%",
+      "vp": 1440,
+      "el": "p.micro",
+      "txt": "© [PLACEHOLDER: year and company]. LUMO ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.46,
+      "need": 3
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.72,
+      "need": 3
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "p.eyebrow",
+      "txt": "A smart ring for sleep and recovery",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "h1.display",
+      "txt": "Sleep, without the noise.",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "h1.display",
+      "txt": "Sleep, without the noise.",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 375,
+      "el": "span.micro",
+      "txt": "One email at launch. [PLACEHOLDER: launc",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.46,
+      "need": 3
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.72,
+      "need": 3
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "p.eyebrow",
+      "txt": "Sleep science",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "h2.title",
+      "txt": "From scattered signals to one clean nigh",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "h2.title",
+      "txt": "From scattered signals to one clean nigh",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "p.body",
+      "txt": "Raw sensor readings are dust. LUMO RING ",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "li.",
+      "txt": "Awake",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "li.",
+      "txt": "REM",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "li.",
+      "txt": "Light",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "li.",
+      "txt": "Deep",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "p.eyebrow",
+      "txt": "Materials",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 375,
+      "el": "h2.title",
+      "txt": "Choose the finish.",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.46,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.72,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "p.eyebrow",
+      "txt": "Waitlist",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "h2.title",
+      "txt": "Be early to a quieter night.",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "One email when [PLACEHOLDER: launch wind",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "One email when [PLACEHOLDER: launch wind",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "p.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.71,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "[PLACEHOLDER: company name, address and ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "[PLACEHOLDER: company name, address and ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "a.",
+      "txt": "Back to top",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "a.",
+      "txt": "Waitlist",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "a.",
+      "txt": "[PLACEHOLDER: Privacy]",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "© [PLACEHOLDER: year and company]. LUMO ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 375,
+      "el": "p.micro",
+      "txt": "© [PLACEHOLDER: year and company]. LUMO ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.46,
+      "need": 3
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.72,
+      "need": 3
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "p.eyebrow",
+      "txt": "A smart ring for sleep and recovery",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "h1.display",
+      "txt": "Sleep, without the noise.",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "h1.display",
+      "txt": "Sleep, without the noise.",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "p.lede",
+      "txt": "LUMO RING reads the night and says one p",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "span.micro",
+      "txt": "One email at launch. [PLACEHOLDER: launc",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-0%",
+      "vp": 1440,
+      "el": "a.scroll-hint",
+      "txt": "Scroll",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.46,
+      "need": 3
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.72,
+      "need": 3
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "p.body",
+      "txt": "Scroll to take it apart and put it back ",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "strong.",
+      "txt": "Outer shell",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "[PLACEHOLDER: material, finishes and siz",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "strong.",
+      "txt": "Sensor band",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Sits against the skin on the inside of t",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "strong.",
+      "txt": "Battery arc",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "[PLACEHOLDER: battery capacity and teste",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "p.eyebrow",
+      "txt": "Sleep science",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "h2.title",
+      "txt": "From scattered signals to one clean nigh",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-50%",
+      "vp": 1440,
+      "el": "h2.title",
+      "txt": "From scattered signals to one clean nigh",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "a.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.46,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.72,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.",
+      "txt": "Wear it to bed like any ring. After firs",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.",
+      "txt": "Wear it to bed like any ring. After firs",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.",
+      "txt": "It records quietly. Nothing buzzes, noth",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.",
+      "txt": "It records quietly. Nothing buzzes, noth",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.",
+      "txt": "In the morning you get one plain sentenc",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.",
+      "txt": "In the morning you get one plain sentenc",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.",
+      "txt": "In the morning you get one plain sentenc",
+      "ratio": 17.44,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.eyebrow",
+      "txt": "Waitlist",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "h2.title",
+      "txt": "Be early to a quieter night.",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "Join the waitlist",
+      "ratio": 8.78,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.micro",
+      "txt": "One email when [PLACEHOLDER: launch wind",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.wordmark",
+      "txt": "LUMO",
+      "ratio": 17.44,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "span.",
+      "txt": "RING",
+      "ratio": 9.71,
+      "need": 3
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.micro",
+      "txt": "[PLACEHOLDER: company name, address and ",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "a.",
+      "txt": "Back to top",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "a.",
+      "txt": "Waitlist",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "a.",
+      "txt": "[PLACEHOLDER: Privacy]",
+      "ratio": 9.71,
+      "need": 4.5
+    },
+    {
+      "tag": "reduced-100%",
+      "vp": 1440,
+      "el": "p.micro",
+      "txt": "© [PLACEHOLDER: year and company]. LUMO ",
+      "ratio": 9.71,
+      "need": 4.5
+    }
+  ],
+  "webgpu": {
+    "backend": "webgpu",
+    "calls": 4,
+    "errorCount": 99,
+    "firstError": "pageerror: Failed to execute 'createBuffer' on 'GPUDevice': createBuffer failed, size (48) is too large for the implementation when mappedAtCreation == true"
+  }
+}
